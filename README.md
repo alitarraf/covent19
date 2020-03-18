@@ -1,7 +1,19 @@
 # covent19
 This repository is a collection of information about the global Open Innovation Effort to Design a Rapidly Deployable Mechanical Ventilator, and an attempt at solidifying a practical design for low resource countries.
 
-# Resources
+# Ventilator Requirements
+TBD
+
+# Design Alternatives
+TBD
+
+# Tests & Validation
+TBD
+
+# Legal concerns
+TBD
+
+# Additional Resources
 
 ## Challenges
 - [Covent Challenge by Massassuchets General Hospital](https://www.coventchallenge.com/)
