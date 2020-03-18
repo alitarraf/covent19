@@ -1,3 +1,5 @@
+![](/img/Ventilators_feat.jpg)
+
 # covent19
 This repository is a collection of information about the global Open Innovation Effort to Design a Rapidly Deployable Mechanical Ventilator, and an attempt at solidifying a practical design for low resource countries.
 
