@@ -46,3 +46,4 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 ## Professional Respirators
 - [Ventisim a ventilator simulator for training healthcare professionals](https://www.ventisim.com)
 - [Hamilton Medical](https://www.hamilton-medical.com/en/)
+- [Airvo2 humidifier](https://www.fphcare.com/us/hospital/adult-respiratory/optiflow/airvo-2-system/)
