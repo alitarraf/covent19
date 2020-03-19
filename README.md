@@ -9,6 +9,18 @@ This repository is a collection of information about the global Open Innovation 
 The main requirement of any mechanical ventilator is to oxygenate lungs in a certain specific pressure and volume depending on operation. This plot from the [European Journal of Anaesthesiology](https://journals.lww.com/ejanaesthesiology/fulltext/2008/02000/optimal_ventilator_settings_in_acute_lung_injury.1.aspx) reveals the adequate operation range.
 ![](/img/PV.png)
 
+## Specifications
+
+Minimum must have features:
+- Control O2 flow
+- Control Pressure of the respiratory system
+- Control humidity of gas delivered into the respiratory system
+
+Extra features:
+
+Wish for features:
+
+
 # Design Alternatives
 TBD
 
@@ -29,9 +41,10 @@ TBD
 Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-VB0vDHajMWKieJRjINCNeE/preview?fbclid=IwAR3ugu1SGMsacwKi6ycAKJFOMduInSO4WVM8rgmC4CgMJY6cKaGBNR14mpM)
 - Facebook Group [Open Source Covid19](https://www.facebook.com/groups/670932227050506)
 - Article by Vice: [People Are Trying to Make DIY Ventilators to Meet Coronavirus Demand](https://www.vice.com/en_us/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand)
-- [Research compiled by others related to Open Source Ventilator Designs](docs.google.com/document/d/1RDihfZIOEYs60kPEIVDe7gmsxdYgUosF9sr45mgFxY8/mobilebasic#)
+- [Research compiled related to Open Source Ventilator Designs](docs.google.com/document/d/1RDihfZIOEYs60kPEIVDe7gmsxdYgUosF9sr45mgFxY8/mobilebasic#)
 - [ULTIMATE MEDICAL HACKATHON: HOW FAST CAN WE DESIGN AND DEPLOY AN OPEN SOURCE VENTILATOR?](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
 - [Hackaday Reddit discussion](https://www.reddit.com/r/Coronavirus/comments/fkhgu3/12_million_member_we_can_do_this_guys_open_source/?utm_medium=android_app&utm_source=share)
+- [Discussion around prototype Arduino Ambu Bag](https://www.reddit.com/r/arduino/comments/fkhyp5/using_arduino_to_combat_the_covid19_ventilator/?utm_medium=android_app&utm_source=share) - a lot of interesting comments and insights
 
 ## Other Respirator projects
 ### Open Source Teams
