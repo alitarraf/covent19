@@ -40,7 +40,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - Pheonix Machinery
 
 ## Maker Spaces
-- [Berytech Fablab](https://berytech.org/offices/fablab/)
+- [Berytech Fablab](https://berytech.org/offices/fablab/) in Lebanon is sponsoring makers to fight Covid19
 
 ## Academic & Professional Societies Information
 - [MIT mechanical ambubag ventilator project](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
