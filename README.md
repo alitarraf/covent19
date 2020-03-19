@@ -27,6 +27,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - Facebook Group [Open Source Covid19](https://www.facebook.com/groups/670932227050506)
 - Article by Vice: [People Are Trying to Make DIY Ventilators to Meet Coronavirus Demand](https://www.vice.com/en_us/article/5dm4mb/people-are-trying-to-make-diy-ventilators-to-meet-coronavirus-demand)
 - [Research compiled by others related to Open Source Ventilator Designs](docs.google.com/document/d/1RDihfZIOEYs60kPEIVDe7gmsxdYgUosF9sr45mgFxY8/mobilebasic#)
+- [ULTIMATE MEDICAL HACKATHON: HOW FAST CAN WE DESIGN AND DEPLOY AN OPEN SOURCE VENTILATOR?](https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/)
 - [Hackaday Reddit discussion](https://www.reddit.com/r/Coronavirus/comments/fkhgu3/12_million_member_we_can_do_this_guys_open_source/?utm_medium=android_app&utm_source=share)
 
 ## Other Respirator projects
