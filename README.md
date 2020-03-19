@@ -11,10 +11,12 @@ The main requirement of any mechanical ventilator is to oxygenate lungs in a cer
 
 ## Specifications
 
-Minimum must have features:
+Unclassified features:
 - Control O2 flow
 - Control Pressure of the respiratory system
 - Control humidity of gas delivered into the respiratory system
+
+Minimum must have features:
 
 Extra features:
 
@@ -22,7 +24,11 @@ Wish for features:
 
 
 # Design Alternatives
-TBD
+[Work In Progress]
+
+- Automated Ambu Bag
+- Automated Mapleson Circuit
+- Upgrading a CPAP machine
 
 # Tests & Validation
 TBD
@@ -59,10 +65,11 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 ## Maker Spaces
 - [Berytech Fablab](https://berytech.org/offices/fablab/) in Lebanon is sponsoring makers to fight Covid19
 
-## Academic & Professional Societies Information
+## Academic & Professional Societies & Patents Information
 - [MIT mechanical ambubag ventilator project](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
 - [American Thoracic Society Explanation about Mehchanical Ventilation](https://www.thoracic.org/patients/patient-resources/resources/mechanical-ventilation.pdf)
 - [Optimal Ventilator Settings](https://journals.lww.com/ejanaesthesiology/fulltext/2008/02000/optimal_ventilator_settings_in_acute_lung_injury.1.aspx)
+- [Ambu-bag automation system and method](https://patents.google.com/patent/US20110041852A1/en)
 
 ## Professional Respirators
 - [Ventisim a ventilator simulator for training healthcare professionals](https://www.ventisim.com)
