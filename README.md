@@ -34,7 +34,9 @@ Wish for features:
 TBD
 
 # Legal concerns
-TBD
+[Work In Progress]
+
+- [US FDA regulations summarised by this reddit post along with failure modes](https://www.reddit.com/r/engineering/comments/fl9brm/a_primer_on_fda_regulations_usa_because/?utm_medium=android_app&utm_source=share)
 
 # Additional Resources
 
