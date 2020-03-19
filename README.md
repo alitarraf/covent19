@@ -4,7 +4,10 @@
 This repository is a collection of information about the global Open Innovation Effort to Design a Rapidly Deployable Mechanical Ventilator, and an attempt at solidifying a practical design for low resource countries.
 
 # Ventilator Requirements
-TBD
+[Work In Progress]  
+
+The main requirement of any mechanical ventilator is to oxygenate lungs in a certain specific pressure and volume depending on operation. This plot from the [European Journal of Anaesthesiology](https://journals.lww.com/ejanaesthesiology/fulltext/2008/02000/optimal_ventilator_settings_in_acute_lung_injury.1.aspx) reveals the adequate operation range.
+![](/img/PV.png)
 
 # Design Alternatives
 TBD
@@ -46,6 +49,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 ## Academic & Professional Societies Information
 - [MIT mechanical ambubag ventilator project](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
 - [American Thoracic Society Explanation about Mehchanical Ventilation](https://www.thoracic.org/patients/patient-resources/resources/mechanical-ventilation.pdf)
+- [Optimal Ventilator Settings](https://journals.lww.com/ejanaesthesiology/fulltext/2008/02000/optimal_ventilator_settings_in_acute_lung_injury.1.aspx)
 
 ## Professional Respirators
 - [Ventisim a ventilator simulator for training healthcare professionals](https://www.ventisim.com)
