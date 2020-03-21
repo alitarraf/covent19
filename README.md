@@ -63,6 +63,7 @@ TBD
 - [Covent Challenge by Massassuchets General Hospital](https://www.coventchallenge.com/)
 - [Frontiers Technology of the UK Department of International Development](https://medium.com/frontier-technology-livestreaming/frontier-tech-4-covid-action-emerging-market-ventilation-systems-9c818cb46189)
 - [RFP for a Rapidly Manufactured Ventilator System by the UK government](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification)
+- [Opensource ventilators register your interest](https://opensourceventilator.ie/)
 
 ## Community & Discussion & Research
 - [Compilation of research folders from the Project OpenAir](https://drive.google.com/drive/folders/1qtQlHXeLzfgIWJPnlad803tzfmr0Z_7_)
