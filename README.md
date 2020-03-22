@@ -77,7 +77,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Discussion around prototype Arduino Ambu Bag](https://www.reddit.com/r/arduino/comments/fkhyp5/using_arduino_to_combat_the_covid19_ventilator/?utm_medium=android_app&utm_source=share) - a lot of interesting comments and insights
 - [3D Printing of a respirator valve in Italy](https://hackaday.com/2020/03/16/3d-printed-parts-keep-respirators-operational-during-covid-19-epidemic/?utm_source=Hackaday.com&utm_campaign=0db272c373-EMAIL_CAMPAIGN_2020_02_26_04_27_COPY_01&utm_medium=email&utm_term=0_a428253bfe-0db272c373-160863683&mc_cid=0db272c373&mc_eid=0cbb6f04e0)
 - [Corona Virus Tech Handbook](https://coronavirustechhandbook.com/hardware ) - Useful information about everything corona virus including hardware
-- 
+- [Uk companies producing ventilators](https://news.sky.com/story/coronavirus-extraordinary-uk-effort-to-produce-thousands-more-ventilators-11961559)
 
 ## Other Respirator projects
 ### Open Source Teams
