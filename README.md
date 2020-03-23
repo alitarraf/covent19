@@ -86,6 +86,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Project Open Air](https://www.projectopenair.org/)
 - [Low-Cost Open Source Ventilator or PAPR](https://github.com/jcl5m1/ventilator)
 - [The pandemic ventilator](https://www.instructables.com/id/The-Pandemic-Ventilator/)
+- [Oxvent from the University of Oxford and King’s College London](https://oxvent.org/)
 
 ### Lebanese teams
 - Lebanese University
