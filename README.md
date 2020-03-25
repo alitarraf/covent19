@@ -4,7 +4,7 @@
 This repository is a collection of information about the global Open Innovation Effort to Design a Rapidly Deployable Mechanical Ventilator, and an attempt at solidifying a practical design for low resource countries.
 
 # Motivation
-I summarised my reasons for starting this project on this post:
+I summarised motivations for this project on this post:
 https://medium.com/@alitarraf/makers-against-covid19-with-diy-ventilators-cece301787f0?sk=f5902e88e8bedd746325b3d50259d661
 
 
@@ -86,10 +86,14 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Project Open Air](https://www.projectopenair.org/)
 - [Low-Cost Open Source Ventilator or PAPR](https://github.com/jcl5m1/ventilator)
 - [The pandemic ventilator](https://www.instructables.com/id/The-Pandemic-Ventilator/)
+- [John Strupat Pandemic Ventilator](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
+- [Isinnova Snorkelig Ventilator mask](https://www.isinnova.it/easy-covid19-eng/?fb-edit=1)
+- [Another Team doing the MIT ventilator](https://github.com/RuairiSpain/openVentilator)
 
 ### Lebanese teams
-- Lebanese University
-- Pheonix Machinery
+- [Lebanese Response Team](https://lebanonresponseteams.info/)
+- Phoenix Machinery
+- [I Network Automation](http://yasour.org/2018/ar/news/details/news-35198?fbclid=IwAR3qMfYjVbswqOuwGkewS36E6zfc6WpJ9vpqZufsBHL1xw7cv4Iw0X7pPZc)
 
 ## Maker Spaces
 - [Berytech Fablab](https://berytech.org/offices/fablab/) in Lebanon is sponsoring makers to fight Covid19
