@@ -89,6 +89,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [John Strupat Pandemic Ventilator](https://www.cbc.ca/news/canada/london/pandemic-ventilator-coronvirus-hospitals-1.5493830)
 - [Isinnova Snorkelig Ventilator mask](https://www.isinnova.it/easy-covid19-eng/?fb-edit=1)
 - [Another Team doing the MIT ventilator](https://github.com/RuairiSpain/openVentilator)
+- [Oxvent from the University of Oxford and King’s College London](https://oxvent.org/)
 
 ### Lebanese teams
 - [Lebanese Response Team](https://lebanonresponseteams.info/)
