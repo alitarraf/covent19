@@ -91,6 +91,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Another Team doing the MIT ventilator](https://github.com/RuairiSpain/openVentilator)
 - [Oxvent from the University of Oxford and King’s College London](https://oxvent.org/)
 - [Ocygen Protofy](https://www.oxygen.protofy.xyz/)
+- [Canada open source ventilator prototype](https://open-source-covid-19-ventilator-canada.mn.co/)
 
 ### Lebanese teams
 - [Lebanese Response Team](https://lebanonresponseteams.info/)
