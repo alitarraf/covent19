@@ -93,19 +93,25 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Ocygen Protofy](https://www.oxygen.protofy.xyz/)
 - [Canada open source ventilator prototype](https://open-source-covid-19-ventilator-canada.mn.co/)
 
+
 ### Lebanese teams
 - [Lebanese Response Team](https://lebanonresponseteams.info/)
 - [Phoenix Machinery](https://www.mtv.com.lb/AMP/Details/1036304?__twitter_impression=true)
 - [I Network Automation](http://yasour.org/2018/ar/news/details/news-35198?fbclid=IwAR3qMfYjVbswqOuwGkewS36E6zfc6WpJ9vpqZufsBHL1xw7cv4Iw0X7pPZc)
+- [Staunch Machinery](https://www.facebook.com/staunchco/videos/218625496089149/)
 
 ## Maker Spaces
 - [Berytech Fablab](https://berytech.org/offices/fablab/) in Lebanon is sponsoring makers to fight Covid19
 
 ## Academic & Professional Societies & Patents Information
 - [MIT mechanical ambubag ventilator project](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
+- [MIT E-Vent | MIT Emergency Ventilator](https://e-vent.mit.edu/)
 - [American Thoracic Society Explanation about Mehchanical Ventilation](https://www.thoracic.org/patients/patient-resources/resources/mechanical-ventilation.pdf)
 - [Optimal Ventilator Settings](https://journals.lww.com/ejanaesthesiology/fulltext/2008/02000/optimal_ventilator_settings_in_acute_lung_injury.1.aspx)
 - [Ambu-bag automation system and method](https://patents.google.com/patent/US20110041852A1/en)
+- [U Florida Open Source Ventilator](https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/)
+- [Mechanical Ventilator Milano (MVM):A Novel Mechanical Ventilator Designed for Mass Production in Response to the COVID-19 Pandemic](https://arxiv.org/pdf/2003.10405.pdf)
+- [Modeling proposal for a new turbine based medical emergency ventilator](https://pure.tue.nl/ws/portalfiles/portal/46890112/398800-1.pdf)
 
 ## Professional Respirators
 - [Ventisim a ventilator simulator for training healthcare professionals](https://www.ventisim.com)
