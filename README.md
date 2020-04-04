@@ -79,6 +79,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Corona Virus Tech Handbook](https://coronavirustechhandbook.com/hardware ) - Useful information about everything corona virus including hardware
 - [Uk companies producing ventilators](https://news.sky.com/story/coronavirus-extraordinary-uk-effort-to-produce-thousands-more-ventilators-11961559)
 
+
 ## Other Respirator projects
 ### Open Source Teams
 - [Trevor Smale](https://gitlab.com/TrevorSmale/OSV-OpenLung)
@@ -92,7 +93,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Oxvent from the University of Oxford and King’s College London](https://oxvent.org/)
 - [Ocygen Protofy](https://www.oxygen.protofy.xyz/)
 - [Canada open source ventilator prototype](https://open-source-covid-19-ventilator-canada.mn.co/)
-
+- [Real Engineering YouTube video  on a guide to design ventilators](https://youtu.be/7vLPefHYWpY)
 
 ### Lebanese teams
 - [Lebanese Response Team](https://lebanonresponseteams.info/)
