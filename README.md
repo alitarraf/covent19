@@ -78,6 +78,7 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [3D Printing of a respirator valve in Italy](https://hackaday.com/2020/03/16/3d-printed-parts-keep-respirators-operational-during-covid-19-epidemic/?utm_source=Hackaday.com&utm_campaign=0db272c373-EMAIL_CAMPAIGN_2020_02_26_04_27_COPY_01&utm_medium=email&utm_term=0_a428253bfe-0db272c373-160863683&mc_cid=0db272c373&mc_eid=0cbb6f04e0)
 - [Corona Virus Tech Handbook](https://coronavirustechhandbook.com/hardware ) - Useful information about everything corona virus including hardware
 - [Uk companies producing ventilators](https://news.sky.com/story/coronavirus-extraordinary-uk-effort-to-produce-thousands-more-ventilators-11961559)
+- [Real Engineering YouTube video  on a guide to design ventilators](https://youtu.be/7vLPefHYWpY)
 
 
 ## Other Respirator projects
@@ -93,7 +94,6 @@ Twitter: @julianbotta](https://docs.google.com/document/d/1FNPwrQjB1qW1330s5-S_-
 - [Oxvent from the University of Oxford and King’s College London](https://oxvent.org/)
 - [Ocygen Protofy](https://www.oxygen.protofy.xyz/)
 - [Canada open source ventilator prototype](https://open-source-covid-19-ventilator-canada.mn.co/)
-- [Real Engineering YouTube video  on a guide to design ventilators](https://youtu.be/7vLPefHYWpY)
 
 ### Lebanese teams
 - [Lebanese Response Team](https://lebanonresponseteams.info/)
